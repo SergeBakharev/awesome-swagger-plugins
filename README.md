@@ -15,6 +15,8 @@ A curated list of awesome [Swagger-UI](https://swagger.io/tools/swagger-ui/) plu
 - [flat-model-plugin](https://github.com/marc0l92/swagger-ui-flat-model-plugin) - Way to display the request/responses models in a flat structure inspired by swagger-ui-2
 - [swagger-ui-kong-theme](https://github.com/Kong/swagger-ui-kong-theme) - Custom 2/3 column theme, and adds code snippets with react-apiembed
 - [DisableTryItOutWithoutServersPlugin](https://github.com/shockey/swagger-ui-plugins/tree/master/packages/disable-try-it-out-without-servers) - Enter documentation-only mode when OAS 3.0 servers is empty or missing
+- [cornify](https://github.com/shockey/swagger-ui-plugin-cornify) - If the API definition you're viewing contains an x-cornify: true statement, adds a [cornify](https://www.cornify.com/) overlay
+- [authorizeIcons](https://github.com/angrocode/swagger-plugin-authorizeIcons) - Changes the lock icons to key when authenticated
 - [Append text to operation descriptions](https://github.com/swagger-api/swagger-ui/issues/5618#issuecomment-534389578)
 - [Disable the collapse feature](https://github.com/swagger-api/swagger-ui/issues/4630#issuecomment-396437703)
 - [Hide resolver errors and/or all errors](https://github.com/swagger-api/swagger-ui/issues/3366#issuecomment-363258562)
